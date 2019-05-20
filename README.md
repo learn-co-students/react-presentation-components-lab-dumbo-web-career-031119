@@ -20,7 +20,7 @@ experience wild mood fluctuations. Our `SimplerComponent`, meanwhile, will be
 written as a "stateless functional" component and therefore be steadfastly
 happy.
 
-## SimpleComponent
+<!-- ## SimpleComponent
 
 The specs for our `SimpleComponent` are as follows:
 
@@ -38,7 +38,7 @@ div.
 
 5. The component should implement a `handleClick` function that can serve as a
 callback to the `<div>`'s click event. When clicked, the component's mood should
-toggle between `happy` and `sad` states.
+toggle between `happy` and `sad` states. -->
 
 While part of our design, the fact that this component's mood fluctuates when
 clicked makes it a less predictable part of our UI. As our program runs and
